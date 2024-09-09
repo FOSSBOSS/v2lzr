@@ -1,5 +1,6 @@
 #!/bin/bash
 # This script depends on ffmpeg imagemagic and yt-dlp
+# and potrace
 # The purpose of this script is to partially automate 
 # converting videos to lasercuttable images.
 #
